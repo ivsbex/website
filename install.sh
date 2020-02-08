@@ -1,0 +1,1 @@
+cd .. && rn website-master website && mv website /sdcard/Download
